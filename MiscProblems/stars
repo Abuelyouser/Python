@@ -1,0 +1,8 @@
+r = int(input("enter number of raws: "))
+N = 1
+c = "*"
+s = " "
+for i in range(r):
+    print(r*s + N * c)
+    c+= "**"
+    r-=1
