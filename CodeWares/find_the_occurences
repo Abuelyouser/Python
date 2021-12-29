@@ -1,0 +1,15 @@
+import collections
+
+x = [0,1,0,1,0]
+ocure = []
+for i in x :
+    if i not in ocure:
+        ocure.append(i)
+print(ocure)
+number_of_occure = []
+for i in ocure :
+    number_of_occure.append(x.count(i))
+print(number_of_occure)
+
+occurrences = collections.Counter(x)
+print(occurrences)
