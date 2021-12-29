@@ -1,0 +1,12 @@
+#5 kyu
+def productFib(prod):
+    a,b=0,1
+    if prod==0:
+        return[0,1,True]
+    while(prod>a*b):
+        a,b=b,a+b
+        if prod==a*b:
+            return [a,b,True]
+        else:
+            if prod<a*b:
+                return [a,b,False]
