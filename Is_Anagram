@@ -1,0 +1,20 @@
+"""Problem 1: Anagram Check
+Write a function that takes two strings as input and determines if they are anagrams of each other. 
+Anagrams are words or phrases formed by rearranging the letters of another word or phrase. For example, 
+if the input strings are "listen" and "silent", the output should be True."""
+
+def anagram_check(word1,word2):
+    x = ''
+    if len(word1) != len(word2):
+        return 'not Anagram'
+    else:
+        for i in range(len(word1)):
+            if word1[i] in word2:
+                x = x + word1[i]
+        if len(x) == len(word2):
+            return 'True !'
+        else:
+            return 'Not anagram!'
+
+print(anagram_check('typhon','python'))
+
