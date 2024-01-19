@@ -1,5 +1,5 @@
 # Python-Notes
 
-*funcitons that i wrote make life easier
+*funcitons and scripts that i wrote make life easier
 *problems that i solved by myself
 
