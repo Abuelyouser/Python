@@ -11,7 +11,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-user="i.selem@absega.com"
+
 password="Ericsoon_5"
 login_link = "https://my.ine.com/login"
 
