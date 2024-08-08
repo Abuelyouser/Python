@@ -12,8 +12,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 
-password="Ericsoon_5"
-login_link = "https://my.ine.com/login"
+password=""
+login_link = ""
 
 course_link = input('Enter the course link: ')
 course_name = course_link.split('/')[-1]
