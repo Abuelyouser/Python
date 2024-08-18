@@ -1,0 +1,14 @@
+# pyautogui references
+presentaion_resume_image = r"D:\Abuelyouser\Scripts\INE-downloader\refernces\resume-presentaiton.png"
+no_resume_image = r"D:\Abuelyouser\Scripts\INE-downloader\refernces\no_resume.png"
+maximize_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\maximize.png'
+go_refernce_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\go_refernce.png'
+out_lines_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\outlines.png'
+stop_recorder_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\stop_recorder.png'
+vid_minimize_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\vid_minize.png'
+driver_noThanks_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\driver_NoThanks.png'
+driver_Cookie_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\driver_CookieGotIt.png'
+vid_maximize_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\vid_maximize.png'
+vid_close_image = r'D:\Abuelyouser\Scripts\INE-downloader\refernces\vid_close_button.png'
+vid_play_pause_image = r"D:\Abuelyouser\Scripts\INE-downloader\refernces\vid_play_button.png"
+quiz_exit_button_image = r"D:\Abuelyouser\Scripts\INE-downloader\refernces\quiz_exit_button.png"
