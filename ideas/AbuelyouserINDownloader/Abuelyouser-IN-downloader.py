@@ -33,9 +33,8 @@ import random
 # Mouse position: (329, 310)   Solutions Lab
 
 #######################################################################
-user = 'i.selem@absega.com'
-password = "Sky!sthelimit90"
-login_link = "https://my.ine.com/login"
+
+login_link = ""
 print("!! Do not forget to open recorder !!")
 print("!! Check the player maximize and play paths .. !!")
 course_link = input('Enter the course link: ')
